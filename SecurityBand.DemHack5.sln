@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeAppWaterMarker", "src\FakeAppWaterMarker\FakeAppWaterMarker.csproj", "{E8AA9F7C-7E97-40FE-A0B1-CF3CD15EF361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityBand.Demhack5.Daemon", "src\SecurityBand.Demhack5.Daemon\SecurityBand.Demhack5.Daemon.csproj", "{9FDE4D7D-B661-475E-9E5F-142DE07039BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8AA9F7C-7E97-40FE-A0B1-CF3CD15EF361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8AA9F7C-7E97-40FE-A0B1-CF3CD15EF361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8AA9F7C-7E97-40FE-A0B1-CF3CD15EF361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8AA9F7C-7E97-40FE-A0B1-CF3CD15EF361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FDE4D7D-B661-475E-9E5F-142DE07039BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDE4D7D-B661-475E-9E5F-142DE07039BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDE4D7D-B661-475E-9E5F-142DE07039BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDE4D7D-B661-475E-9E5F-142DE07039BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

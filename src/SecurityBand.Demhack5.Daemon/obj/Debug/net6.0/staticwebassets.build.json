@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eLaX2vohcjtOIiLiJ5LhYkgx2Jw5f27RIbkrx3wfV2w=",
+  "Source": "SecurityBand.Demhack5.Daemon",
+  "BasePath": "_content/SecurityBand.Demhack5.Daemon",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

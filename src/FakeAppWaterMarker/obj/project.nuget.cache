@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "XMPBU7z3RYzB7MFHogeFNDZcb1zjw8rBuYGvV71kt6TLbclM/H49POD7CYoMf/ky28rGoP9YGIiAMBK0j9bG0w==",
+  "success": true,
+  "projectFilePath": "C:\\storage\\source\\sb\\demhack5\\src\\FakeAppWaterMarker\\FakeAppWaterMarker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seraf\\.nuget\\packages\\fluentargs\\0.9.7\\fluentargs.0.9.7.nupkg.sha512",
+    "C:\\Users\\seraf\\.nuget\\packages\\lazziya.imageresize\\4.1.0\\lazziya.imageresize.4.1.0.nupkg.sha512",
+    "C:\\Users\\seraf\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\seraf\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\seraf\\.nuget\\packages\\system.collections.immutable\\1.4.0\\system.collections.immutable.1.4.0.nupkg.sha512",
+    "C:\\Users\\seraf\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\seraf\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\seraf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\seraf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\seraf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}
