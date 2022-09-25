@@ -2,6 +2,8 @@
 using System.Drawing;
 using LazZiya.ImageResize;
 using FluentArgs;
+using Device.Net;
+
 using System.Threading.Tasks;
 namespace FakeAppWaterMarker
 {
@@ -22,8 +24,8 @@ namespace FakeAppWaterMarker
                     .WithExamples("output.jpg")
                     .IsRequired()
                 .Parameter("-w", "--watermark_image")
-                    .WithDescription("Output jpg file")
-                    .WithExamples("output.jpg")
+                    .WithDescription("watermark jpg file")
+                    .WithExamples("watermark.jpg")
                     .IsRequired()
                 .Parameter<int>("-l", "--level_opacity")
                     .WithDescription("level_opacity")
@@ -32,11 +34,29 @@ namespace FakeAppWaterMarker
                 .Call(level_opacity => watermark_image => outputFile => inputFile =>
                 {
                     ApplyWaterMarkSingleImage(inputFile, watermark_image, outputFile, level_opacity);
+                    Cipher(inputFile, "Message.tx");
                     return Task.CompletedTask;
                 })
                 .ParseAsync(args);
 
 
+
+        }
+
+
+      static void Cipher(String folder, String message_file_name)
+        {
+            var targetDevice = new FilterDeviceDefinition(vendorId: 0x413d, productId: 0x2107, usagePage: 65280);
+            if (targetDevice == null)
+            {
+                return;
+            }
+            else
+            {
+
+                //do some work with  image amd text 
+
+            }
 
         }
 
