@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "y/mQM6HDmEoacARFn1vLSn7Y7pUsRA6gzLGBWrDshxfcCZPs9TkSsBltZz5QPC0GOzEWobl+iqDwF7jvzmdvFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harde\\source\\repos\\FakeAppWaterMarker\\FakeAppWaterMarker\\FakeAppWaterMarker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harde\\.nuget\\packages\\fluentargs\\0.9.7\\fluentargs.0.9.7.nupkg.sha512",
+    "C:\\Users\\harde\\.nuget\\packages\\lazziya.imageresize\\4.1.0\\lazziya.imageresize.4.1.0.nupkg.sha512",
+    "C:\\Users\\harde\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\harde\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\harde\\.nuget\\packages\\system.collections.immutable\\1.4.0\\system.collections.immutable.1.4.0.nupkg.sha512",
+    "C:\\Users\\harde\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

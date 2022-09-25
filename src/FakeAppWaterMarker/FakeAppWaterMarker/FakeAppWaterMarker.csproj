@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentArgs" Version="0.9.7" />
+    <PackageReference Include="LazZiya.ImageResize" Version="4.1.0" />
+  </ItemGroup>
+
+</Project>
